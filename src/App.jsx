@@ -1,3 +1,30 @@
+// import { useState } from 'react'
+// import reactLogo from './assets/react.svg'
+// import viteLogo from '/vite.svg'
+// import './App.css'
+// import Welcome from './Welcome'
+// import Formulaire from './Formulaire'
+// import ListeCourses from './ListeCourses'
+
+// function App() {
+//   const [count, setCount] = useState(0)
+
+//   return (
+//     <>
+//       <div className="card">
+//         <button onClick={() => setCount((count) => count - 1)}>-</button>
+//         <p>count is {count}</p>
+//         <button onClick={() => setCount((count) => count + 1)}>+ </button>
+      
+//       </div>
+//       <Welcome name= "mehdi"/>
+//       <Formulaire/>
+//       <ListeCourses/>
+//     </>
+//   )
+// }
+
+// export default App
 import React, { useState } from 'react';
 import './App.css';
 
